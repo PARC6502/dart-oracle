@@ -1,0 +1,6 @@
+- name: Cabin
+  categories: buildings
+- name: Mansion
+  categories: buildings, city
+- name: Coffee Shop
+  categories: buildings, city, meeting-spots

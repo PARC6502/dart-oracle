@@ -10,7 +10,7 @@ A simple CLI oracle for GM-Less or Solo Roleplaying, implemented in Dart.
 
 ## Roadmap
 
-[ ] Implement interactive CLI frontend using `interact`
-[ ] Add more oracles
-[ ] Oracle results added to clipboard for convenience
-[ ] Implement cli flags to get specific oracle, without interaction
+- [ ] Implement interactive CLI frontend using `interact`
+- [ ] Add more oracles
+- [ ] Oracle results added to clipboard for convenience
+- [ ] Implement cli flags to get specific oracle, without interaction
